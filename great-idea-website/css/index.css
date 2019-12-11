@@ -103,7 +103,7 @@ div.iod-box {
 div.iod {
 	display: inline-block;
 	margin: 100px;
-	margin-top: 50px;
+	margin-top: 60px;
 	position: absolute;
 	top: 0;
 }
@@ -111,12 +111,13 @@ div.iod {
 div.iod h2 {
 	font-size: 70px;
 	text-align: center;
+	line-height: 0.85;
 }
 
 div.iod button {
 	text-align: center;
 	position: absolute;
-	top: 256px;
+	top: 230px;
 	left: 70px;
 	width: 140px;
 	height: 30px;
