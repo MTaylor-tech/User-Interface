@@ -1,6 +1,6 @@
-# User Interface Project: Great Ideas Website
+## User Interface Project: Great Ideas Website
 
-## The Challenge
+### The Challenge
 To create a webpage from a design document.
 
 [The design document] (./design-files/desktop.jpg)
