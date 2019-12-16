@@ -3,9 +3,9 @@
 ### The Challenge
 To create a webpage from a design document.
 
-[The design document] (https://majikpig.github.io/User-Interface/design-files/desktop.jpg)
+[The design document](/design-files/desktop.jpg)
 
-[The webpage I created] (https://majikpig.github.io/User-Interface/great-idea-website/index.html)
+[The webpage I created](/great-idea-website/index.html)
 
 ### Stretch Challenges
 
@@ -13,4 +13,4 @@ To create a webpage from a design document.
 - Introduce a new font family from [google fonts](https://fonts.google.com/)
 - Research CSS animations and see how you could implement some ideas when hovering over buttons or navigation items **Mouse over `Get Started` button on `index2.html`**
 
-[The stretch challenge webpage I created] (https://majikpig.github.io/User-Interface/great-idea-website/index2.html)
+[The stretch challenge webpage I created](/great-idea-website/index2.html)
